@@ -1,2 +1,0 @@
-# Bgvk
-Test Project
